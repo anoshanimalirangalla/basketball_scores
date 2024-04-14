@@ -1,4 +1,4 @@
-# Basketball scores and details Flask web application
+# Basketball scores(Balldontlie.io) and details Flask web application
 
 ## Objective : 
 Statistics are displayed in a flask web application. Basketball details player stats are fetched from  https://www.balldontlie.io/#introduction  API. 
